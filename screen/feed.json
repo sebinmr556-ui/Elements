@@ -1,1 +1,16 @@
+{
+  "layout": "staggered_grid",
+  "enable_story_tray": true,
+  "story_expiry_hours": 24,
+  "post_card": {
+    "show_like_count": true,
+    "show_comment_box": true,
+    "media_aspect_ratio": "1:1",
+    "corner_radius": 12
+  },
+  "interactions": {
+    "enable_double_tap_like": true,
+    "enable_share": true
+  }
+}
 
