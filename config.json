@@ -1,1 +1,25 @@
 
+{
+  "app_name": "Noise",
+  "version": "1.0.0",
+  "api_base_url": "https://api.yourdomain.com",
+  "screens_directory": "screens/",
+  "theme": {
+    "primary_color": "#1DB954",
+    "background_color": "#121212",
+    "surface_color": "#1E1E2E",
+    "text_color": "#FFFFFF",
+    "accent_color": "#00FF66"
+  },
+  "modules": {
+    "live_room": true,
+    "feed": true,
+    "messages": true,
+    "profile": true,
+    "ludo_game": true
+  },
+  "webrtc": {
+    "livekit_url": "wss://your-livekit-url.com",
+    "token_endpoint": "/api/token"
+  }
+}
