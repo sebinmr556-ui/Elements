@@ -1,1 +1,7 @@
 
+{
+  "background_image_url": "https://via.placeholder.com/600x400",
+  "active_slots": 8,
+  "slot_border_color": "#00FF66",
+  "enable_games": true
+}
