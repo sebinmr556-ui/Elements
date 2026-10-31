@@ -1,1 +1,7 @@
 
+{
+  "banner_image_url": "https://via.placeholder.com/600x200",
+  "featured_categories": ["Trending", "New Releases", "Recommended"],
+  "icon_style": "outlined",
+  "grid_columns": 2
+}
