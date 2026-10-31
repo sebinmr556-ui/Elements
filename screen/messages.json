@@ -1,1 +1,17 @@
 
+{
+  "chat_list": {
+    "show_online_indicator": true,
+    "show_last_seen": true,
+    "pinned_chats_limit": 3
+  },
+  "conversation": {
+    "sender_bubble_color": "#2E3856",
+    "receiver_bubble_color": "#1E1E2E",
+    "text_color": "#FFFFFF",
+    "font_size": 15,
+    "show_timestamp": true,
+    "enable_voice_notes": true,
+    "enable_attachments": true
+  }
+}
