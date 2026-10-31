@@ -1,1 +1,21 @@
 
+{
+  "header_style": "card_banner",
+  "avatar_border_color": "#1DB954",
+  "show_level_badge": true,
+  "stats": {
+    "show_followers": true,
+    "show_following": true,
+    "show_diamonds": true
+  },
+  "sections": [
+    {
+      "title": "Badges",
+      "enabled": true
+    },
+    {
+      "title": "Recent Activity",
+      "enabled": true
+    }
+  ]
+}
